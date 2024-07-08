@@ -1,0 +1,66 @@
+ID: 1
+Nombre: anderson
+Direccion: 46
+Edad: 46
+Numero telefonico: 46
+------------------------
+ID: 10
+Nombre: anderson
+Direccion: 646
+Edad: 494
+Numero telefonico: 3464
+------------------------
+ID: 1
+Nombre: anderson
+Direccion: 1
+Edad: 1
+Numero telefonico: 46
+------------------------
+ID: 1
+Nombre: anderson
+Direccion: 64
+Edad: 879
+Numero telefonico: 5464
+------------------------
+ID: 10
+Nombre: anderson
+Direccion: 1
+Edad: 1
+Numero telefonico: 1
+------------------------
+ID: 10
+Nombre: anderson
+Direccion: 1
+Edad: 46
+Numero telefonico: 165464
+------------------------
+ID: 2
+Nombre: jenny
+Direccion: 487
+Edad: 646
+Numero telefonico: 78
+------------------------
+ID: 9
+Nombre: anderson
+Direccion: 97
+Edad: 899
+Numero telefonico: 4644
+------------------------
+ID: 10
+Nombre: andres
+Direccion: cr 6789
+Edad: 55
+Numero telefonico: 5494
+------------------------
+ID: 8
+Nombre: andres
+Direccion: 4646
+Edad: 9798
+Numero telefonico: 16546
+------------------------
+ID: 10
+Nombre: anderson
+Direccion: 46
+Edad: 678
+Numero telefonico: 6546
+------------------------
